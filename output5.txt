@@ -1,0 +1,112 @@
+# Exercise 5
+Creating New Aircraft Object: 0
+New Aircraft Object Has Just Been Initalized: 0
+Initial X-Coord:13
+Initial Y-Coord: 10
+New Boeing 747 Object Has Just Been Iniitalized: 0
+X-Coord:45
+Y-Coord: 67
+Moved down..
+Moved up..
+Moved left..
+Moved right..
+Moved down..
+Moved left..
+Moved right..
+Moved up..
+Moved down..
+Moved right..
+Moved left..
+Creating New Aircraft Object: 1
+New Aircraft Object Has Just Been Initalized: 1
+Initial X-Coord:9
+Initial Y-Coord: 17
+New Boeing 747 Object Has Just Been Iniitalized: 1
+X-Coord:83
+Y-Coord: 56
+Moved down..
+Moved up..
+Moved left..
+Moved right..
+Moved down..
+Moved left..
+Moved right..
+Moved up..
+Moved down..
+Moved right..
+Moved left..
+Creating New Aircraft Object: 2
+New Aircraft Object Has Just Been Initalized: 2
+Initial X-Coord:14
+Initial Y-Coord: 34
+New Boeing 747 Object Has Just Been Iniitalized: 2
+X-Coord:29
+Y-Coord: 54
+Moved down..
+Moved up..
+Moved left..
+Moved right..
+Moved down..
+Moved left..
+Moved right..
+Moved up..
+Moved down..
+Moved right..
+Moved left..
+Creating New Aircraft Object: 3
+New Aircraft Object Has Just Been Initalized: 3
+Initial X-Coord:9
+Initial Y-Coord: 54
+New Boeing 747 Object Has Just Been Iniitalized: 3
+X-Coord:24
+Y-Coord: 61
+Moved down..
+Moved up..
+Moved left..
+Moved right..
+Moved down..
+Moved left..
+Moved right..
+Moved up..
+Moved down..
+Moved right..
+Moved left..
+Creating New Aircraft Object: 4
+New Aircraft Object Has Just Been Initalized: 4
+Initial X-Coord:6
+Initial Y-Coord: 9
+New Boeing 747 Object Has Just Been Iniitalized: 4
+X-Coord:72
+Y-Coord: 19
+Moved down..
+Moved up..
+Moved left..
+Moved right..
+Moved down..
+Moved left..
+Moved right..
+Moved up..
+Moved down..
+Moved right..
+Moved left..
+
+Aircraft [0]
+Final X-Coord:13
+Final Y-Coord: 11
+
+Aircraft [1]
+Final X-Coord:9
+Final Y-Coord: 18
+
+Aircraft [2]
+Final X-Coord:14
+Final Y-Coord: 35
+
+Aircraft [3]
+Final X-Coord:9
+Final Y-Coord: 55
+
+Aircraft [4]
+Final X-Coord:6
+Final Y-Coord: 10
+

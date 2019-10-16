@@ -1,0 +1,98 @@
+
+# Exercise 4
+Creating New Aircraft Object: 0
+New Aircraft Object Has Just Been Initalized: 0
+Initial X-Coord:0
+Initial Y-Coord: 0
+Moved down..
+Moved left..
+Moved right..
+Moved up..
+Moved left..
+Moved down..
+Moved right..
+Moved down..
+Moved left..
+Moved up..
+Moved left..
+Creating New Aircraft Object: 1
+New Aircraft Object Has Just Been Initalized: 1
+Initial X-Coord:5
+Initial Y-Coord: 9
+Moved down..
+Moved left..
+Moved right..
+Moved up..
+Moved left..
+Moved down..
+Moved right..
+Moved down..
+Moved left..
+Moved up..
+Moved left..
+Creating New Aircraft Object: 2
+New Aircraft Object Has Just Been Initalized: 2
+Initial X-Coord:2
+Initial Y-Coord: 6
+Moved down..
+Moved left..
+Moved right..
+Moved up..
+Moved left..
+Moved down..
+Moved right..
+Moved down..
+Moved left..
+Moved up..
+Moved left..
+Creating New Aircraft Object: 3
+New Aircraft Object Has Just Been Initalized: 3
+Initial X-Coord:4
+Initial Y-Coord: 6
+Moved down..
+Moved left..
+Moved right..
+Moved up..
+Moved left..
+Moved down..
+Moved right..
+Moved down..
+Moved left..
+Moved up..
+Moved left..
+Creating New Aircraft Object: 4
+New Aircraft Object Has Just Been Initalized: 4
+Initial X-Coord:13
+Initial Y-Coord: 21
+Moved down..
+Moved left..
+Moved right..
+Moved up..
+Moved left..
+Moved down..
+Moved right..
+Moved down..
+Moved left..
+Moved up..
+Moved left..
+
+Aircraft [0]
+Final X-Coord:1
+Final Y-Coord: 0
+
+Aircraft [1]
+Final X-Coord:6
+Final Y-Coord: 9
+
+Aircraft [2]
+Final X-Coord:3
+Final Y-Coord: 6
+
+Aircraft [3]
+Final X-Coord:5
+Final Y-Coord: 6
+
+Aircraft [4]
+Final X-Coord:14
+Final Y-Coord: 21
+

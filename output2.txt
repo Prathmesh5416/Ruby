@@ -1,0 +1,18 @@
+# Exercise 2
+Initial X-Coord: 0
+Initial Y-Coord: 0
+Moved up..
+Moved down..
+Moved left..
+Moved right..
+Moved down..
+Moved down..
+Moved left..
+Moved right..
+Moved down..
+Moved up..
+Moved left..
+Final X-Coord: 0
+Final Y-Coord: 1
+
+

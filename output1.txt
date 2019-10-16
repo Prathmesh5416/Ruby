@@ -1,0 +1,39 @@
+# Exercise 1, part 1
+34
+65
+
+# Exercise 1, part 2
+aircraft_1 coordinates are:  23 45
+aircraft_2 coordinates are:  34 56
+aircraft_3 coordinates are:  65 67
+aircraft_4 coordinates are:  98 68
+aircraft_5 coordinates are:  34 36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
